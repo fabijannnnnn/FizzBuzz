@@ -10,7 +10,7 @@ To run the program:
 - Compile the `main.cpp` file.
 - Execute the compiled binary.
 
-## Test
+## Tests
 
 The program includes a basic test that verifies the correctness of the FizzBuzz output for different inputs.
 
